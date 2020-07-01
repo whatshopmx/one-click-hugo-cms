@@ -3,11 +3,13 @@ title: Ahora puedes tener tu tienda en whatsapp con Whatshop!
 subtitle: Support sustainable farming while enjoying a cup
 image: img/hero_right.png
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Porque Whatshop?
+  text: >
+    Poner tu negocio en whatsapp ahora se volvió más fácil. Creamos la
+    plataforma de whatshop para que fuera más fácil para los clientes y
+    vendedores  poder realizar compras adentro de whatsapp, que es la aplicación
+    con más penetración en México con más de 77 millones de usuarios que  la
+    utilizan hoy en día.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
