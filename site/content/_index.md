@@ -1,7 +1,7 @@
 ---
 title: Ahora puedes tener tu tienda en whatsapp con Whatshop!
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: img/hero_right.png
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
